@@ -4,6 +4,8 @@
 
  This is a full stack web app that integrates a MySQL database of different types of burgers and uses it to query and route data. Using MVC architecture by implementing Handlebars to generate HTML content.
 
+ Once up and running, you can enter your favorite burgers into the app and devour them!
+
 ### Prerequisites
 
 Make sure to have the following installed on your computer. You will need to download [Node.js](https://nodejs.org/en/download/).
