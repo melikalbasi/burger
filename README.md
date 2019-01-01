@@ -25,7 +25,7 @@ In order for the app to render locally, you will need to use the included schema
 
 ## Deployment
 
-The deployed version of this app is hosted on heroku here
+The deployed version of this app is hosted on heroku [here](https://limitless-tundra-97966.herokuapp.com/).
 
 To initialize this app locally on your machine type into your terminal the following
 ```
